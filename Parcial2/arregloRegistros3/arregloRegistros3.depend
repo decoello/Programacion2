@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1409262206 source:c:\users\rolando\desktop\progra2\arregloregistros3\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+

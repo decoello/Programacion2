@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1411079417 source:c:\users\rolando\desktop\progra2\punteros2\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+

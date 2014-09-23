@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1410483189 source:c:\users\rolando\desktop\progra2\cadena7\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
